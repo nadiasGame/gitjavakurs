@@ -1,2 +1,1 @@
-# gitjavakurs
-javascript kurs
+todolista
